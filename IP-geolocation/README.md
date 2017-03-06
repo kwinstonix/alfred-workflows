@@ -4,7 +4,7 @@
 
     * [ip.taobao.com](http://ip.taobao.com) (limit: 10 query/second)
     * [ipinfo.io](http://ipinfo.io)  (limit: 1,000 query/day)
-    * [freegeoip.net](https://freegeoip.net)  (limit: 15,000 query/hour
+    * [freegeoip.net](https://freegeoip.net)  (limit: 15,000 query/hour)
 
 
 * About the workflows's main icon: 
